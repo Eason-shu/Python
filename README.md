@@ -1,6 +1,6 @@
 
 
-![python 基本学习](README/images/python.png)
+![python 基本学习](README/images/python 基本学习-16937451045123.png)
 
 # **Python基础文章系列**
 
